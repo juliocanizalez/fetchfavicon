@@ -16,9 +16,9 @@
   "author": "Julio Canizalez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juliocanizalez/urlshortener/issues"
+    "url": "https://github.com/juliocanizalez/fetchfavicon/issues"
   },
-  "homepage": "https://github.com/juliocanizalez/urlshortener#readme",
+  "homepage": "https://github.com/juliocanizalez/fetchfavicon#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
   }
