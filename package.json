@@ -1,0 +1,25 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "Fetch favicon using javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliocanizalez/urlshortener.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Julio Canizalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliocanizalez/urlshortener/issues"
+  },
+  "homepage": "https://github.com/juliocanizalez/urlshortener#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
